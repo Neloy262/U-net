@@ -1,2 +1,2 @@
 # U-net
-An implementation of the U-net architecture.
+An implementation of the original U-net architecture.
